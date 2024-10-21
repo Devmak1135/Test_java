@@ -4,6 +4,7 @@ class hello{
 		 System.out.println("HELLO WORLD");
 	 }		 
 }
+
 /*
 OUTPUT:-
 E:\Devcs5>javac hello.java
