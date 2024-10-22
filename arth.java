@@ -11,6 +11,7 @@ class arth{
 	 }
 
 }
+/*
 OUTPUT:-
 E:\Devcs5>javac arth.java
 
@@ -19,3 +20,4 @@ Addition: 80
 Multiply: 1500
 Division: 1
 Subtraction: 20
+*/
